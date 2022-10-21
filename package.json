@@ -20,7 +20,6 @@
   "author": "Dat Tran",
   "license": "ISC",
   "peerDependencies": {
-    "react-native": "*",
-    "react-native-windows": "0.41.0-rc.1"
+    "react-native": "*"
   }
 }
